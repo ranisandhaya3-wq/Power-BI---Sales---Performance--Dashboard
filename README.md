@@ -61,7 +61,7 @@ Purpose: Quantifies the financial impact of order cancellations.
 - Enabled interactive analysis using slicers and filters.
 
 ## Dashboard Preview
-"C:\Users\sansk\OneDrive\Pictures\Screenshots\Screenshot 2026-07-17 030747.png"
+
 
 ## Skills Demonstrated
 
