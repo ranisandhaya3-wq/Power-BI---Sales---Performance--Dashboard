@@ -62,37 +62,20 @@ Purpose: Quantifies the financial impact of order cancellations.
 
 ## Dashboard Preview
 
+https://github.com/ranisandhaya3-wq/Power-BI---Sales---Performance--Dashboard/blob/main/Screenshot%202026-07-17%20030747.png
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 📚 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
-- Data Modeling
+- Data Modelling
 - DAX Calculations
 - KPI Development
 - Business Intelligence
 - Dashboard Design
-- Data Visualization
+- Data Visualisation
 - Business Analytics
 - Sales Analysis
 - Interactive Reporting
 
----
-
-## 🚀 Conclusion
-
-This Power BI dashboard transforms raw sales data into meaningful business insights by tracking important KPIs, visualizing sales trends, and identifying performance patterns. The project demonstrates practical Business Intelligence and Data Analytics skills using Power BI to support data-driven decision-making.
+## Conclusion
+This Power BI dashboard transforms raw sales data into meaningful business insights by tracking important KPIs, visualising sales trends, and identifying performance patterns. The project demonstrates practical Business Intelligence and Data Analytics skills using Power BI to support data-driven decision-making.
