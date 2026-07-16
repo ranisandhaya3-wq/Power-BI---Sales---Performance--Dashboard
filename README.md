@@ -61,8 +61,7 @@ Purpose: Quantifies the financial impact of order cancellations.
 - Enabled interactive analysis using slicers and filters.
 
 ## Dashboard Preview
-
-https://github.com/ranisandhaya3-wq/Power-BI---Sales---Performance--Dashboard/blob/main/Screenshot%202026-07-17%20030747.png
+"C:\Users\sansk\OneDrive\Pictures\Screenshots\Screenshot 2026-07-17 030747.png"
 
 ## Skills Demonstrated
 
